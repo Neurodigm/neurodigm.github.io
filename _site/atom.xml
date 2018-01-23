@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Neurodigm | home</title>
+ <link href="http://0.0.0.0:4000/atom.xml" rel="self"/>
+ <id>http://0.0.0.0:4000</id>
+ <updated>2018-01-23T14:54:24+09:00</updated>
+ <author>
+   <name>The Review Index</name>
+   <uri>http://www.neurodigm.github.io/</uri>
+   <email>admin@neurodigm.co.kr</email>
+ </author>
+
+ 
+
+ <entry>
+   <title>Neurodigm | Career</title>
+   <link href="http://0.0.0.0:4000/neurodigm_career"/>
+   <id>http://0.0.0.0:4000/neurodigm_career</id>
+   <updated>2017-08-14T00:00:00+09:00</updated>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/Neurodigm_CI.png&quot; alt=&quot;Neurodigm_CI&quot; title=&quot;Neurodigm_CI&quot; /&gt; Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet...</content>
+ </entry>
+
+ 
+
+</feed>
