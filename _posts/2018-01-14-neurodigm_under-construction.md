@@ -1,7 +1,7 @@
 ---
 title: Neurodigm | TEMPORY CLOSED FOR CONSTRUCTION
 description: Neurodigm
-header: Tempory closed for construction.
+header: Temporarily closed for construction.
 ---
 ![under-construction](/img/under-construction.png "under-construction")
 
